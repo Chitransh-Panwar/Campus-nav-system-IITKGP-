@@ -104,8 +104,13 @@ campus-navigation/
    - A polyline is drawn on the map indicating the path.
   
 ### Live Demo
-Here's a quick GIF demonstrating the main workflow:
+Here's a quick Video demonstrating the main workflow:
+
   
+
+https://github.com/user-attachments/assets/e3d27e27-7ef8-44e1-a08e-4e6d57c72d1d
+
+
      
 ## Future Enhancements
 
@@ -128,4 +133,5 @@ Here's a quick GIF demonstrating the main workflow:
 If you have any questions or suggestions, feel free to open an issue or submit a pull request on GitHub.
 
 #Disclaimer 
+
   there is a small issue in this as i made this project as semester project thiswas mandatory to use cpp thats why i used graph.cpp and convert it into graph.js/graph.wasm ,you can skip this part you can directly write graph.js on your own it will also work .
