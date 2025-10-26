@@ -103,7 +103,9 @@ campus-navigation/
    - The app calculates the route using your chosen algorithm.  
    - A polyline is drawn on the map indicating the path.
   
-   - 
+### Live Demo
+Here's a quick GIF demonstrating the main workflow:
+  
      
 ## Future Enhancements
 
